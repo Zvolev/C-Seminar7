@@ -39,8 +39,6 @@ void PrintMatrix(int[,] matr)
     }
 }
 
-
-
 void AverageColumnMatrix(int[,] matr)
 { 
     for (int j = 0; j < matr.GetLength(1); j++)
